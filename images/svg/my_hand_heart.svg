@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400"
+   height="300"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="my_hand_heart.svg"
+   inkscape:export-filename="/home/elena/Documents/Office/Inkscape/My works/dribble/Hand_heart/my_hand_heart.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#f15a23"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="11.200571"
+     inkscape:cx="242.62729"
+     inkscape:cy="132.95307"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1299"
+     inkscape:window-height="744"
+     inkscape:window-x="67"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="10"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-752.36218)">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 160,892.36218 c 0,30 24,30 20,50 0,0 -4,3 0,10 4.13237,7.23166 20,0 20,-20 0,-10 -32,-21 -18,-38 14,-9 16,5 18,5 2,0 4,-14 18,-5 14,17 -18,28 -13,38 28.87491,26.1738 68.96454,18.95798 65,10 -5.48214,-12.38703 -30,0 -40,-10 0,-10 60,-5.54383 50,-20 -8.04083,-11.62396 -44.92886,14.91525 -40,0 3.13769,-9.49499 42.77395,-13.38832 30,-30 -20.02513,5.15187 -39.87783,21.7228 -40,10 -0.0357,-3.42172 32.37141,-19.40715 20,-30 -17.67953,11.54698 -19.78215,20.14523 -30,20 -29.99697,-0.42636 -60,-20 -60,10 z"
+       id="path3006"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csscccccscsscscsc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 183,910.36218 c -0.35583,-0.4575 -2.81538,-14.23991 9,-14 -8,4 -9,14 -9,14 z"
+       id="path2984"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:#fce1da;fill-opacity:1;stroke:none"
+       d="m 205,176 c -136.666667,82.66667 -68.33333,41.33333 0,0 z"
+       id="path2985"
+       inkscape:connector-curvature="0"
+       transform="translate(0,752.36218)"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#fce1da;fill-opacity:1;stroke:none"
+       d="m 179,150 c -4.03117,7.8371 -3.85968,4.6059 20,35 8.17728,-9.99812 -23.21277,-25.16644 -20,-35 z"
+       id="path3755"
+       inkscape:connector-curvature="0"
+       transform="translate(0,752.36218)"
+       sodipodi:nodetypes="ccc" />
+    <path
+       sodipodi:nodetypes="ccc"
+       inkscape:connector-curvature="0"
+       id="path3757"
+       d="m 218,894.36218 c 7,7 16,6 -11.6075,39 -10.42647,-9.00349 25.78528,-20.97777 11.6075,-39 z"
+       style="fill:#fce1da;fill-opacity:1;stroke:none" />
+  </g>
+</svg>
